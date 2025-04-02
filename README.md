@@ -1,12 +1,12 @@
 # projeto-hambuger-react
 
-<img src="./src/assets/codBuger1.png" alt="foto da pagina de login do meu projeto">
+<img src="./src/assets/burger-login.png" alt="foto da pagina de login do meu projeto">
 
- <source src="./src/assets/burger-home.mp4" type="video/webm" alt="video da pagina Home do meu projeto" />
+ <source src="./src/assets/burger-home.mp4" type="video/mp4" alt="video da pagina Home do meu projeto" />
 
-  <source src="./src/assets/burger-product.mp4" type="video/webm" alt="video da pagina de produtos do meu projeto" />
+  <source src="./src/assets/burger-product.mp4" type="video/mp4" alt="video da pagina de produtos do meu projeto" />
 
-<img src="./src/assets/codBuger2.png" alt="foto da pagina do carrinho do meu projeto">
+<img src="./src/assets/burger-carrinho.png" alt="foto da pagina do carrinho do meu projeto">
 
 > resultado final do meu projeto .
 
